@@ -44,7 +44,7 @@
             </collectionProp>
           </elementProp>
 
-          <stringProp name="HTTPSampler.domain">jinrong.test.zcygov.cn</stringProp>
+          <stringProp name="HTTPSampler.domain"></stringProp>
           <stringProp name="HTTPSampler.port"></stringProp>
           <stringProp name="HTTPSampler.protocol">http</stringProp>
           <stringProp name="HTTPSampler.contentEncoding">utf-8</stringProp>
